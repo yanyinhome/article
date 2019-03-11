@@ -1,0 +1,68 @@
+/* 公共样式表 */
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+    list-style: none;
+}
+html,
+body {
+  background: #fff;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+caption,
+th {
+  font-weight: normal;
+}
+
+small {
+  font-size: 80%;
+}
+
+pre,
+code,
+kbd,
+samp {
+  font-family: inherit;
+}
+
+q:before,
+q:after {
+  content: none;
+}
+
+textarea {
+  overflow: auto;
+  resize: none;
+}
+
+label,
+summary {
+  cursor: default;
+}
+
+a,
+button {
+  cursor: pointer;
+}
+
+ins,
+u,
+s,
+a,
+a:hover {
+  text-decoration: none;
+}
+
+img {
+  overflow: hidden;
+  border: 0 none;
+  vertical-align: middle;
+}
